@@ -1,2 +1,5 @@
 # hello-world
-My First Repository
+
+Hello there!
+
+My name is Si Yuan. I am new to GitHub.
